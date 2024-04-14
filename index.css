@@ -3,6 +3,9 @@
 }
 .subaspect{
     text-align: center;
+    h3{
+        vertical-align: center;
+    }
 }
 
 .title{
@@ -11,4 +14,8 @@
 }
 .subtitle{
     text-align: center;
+}
+#babyme{
+    max-height: 400px;
+    object-fit: cover !important;
 }
