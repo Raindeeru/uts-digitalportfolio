@@ -19,3 +19,27 @@
     max-height: 400px;
     object-fit: cover !important;
 }
+
+@font-face {
+    font-family: Gingercat;
+    src: url(GingerCat.ttf);
+}
+
+@font-face {
+    font-family: ComfortaRegular;
+    src: url(Comfortaa-Regular.ttf);
+}
+
+h1,h2,h3{
+    font-family: Gingercat;
+}
+
+h4,h5{
+    font-family: ComfortaRegular;
+}
+
+img{
+    border: 10px solid #000000;
+    border-radius: 10px;
+    margin: 0px;
+}
